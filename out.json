@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Amol",
+        "age": "32",
+        "city": "Pune",
+        "role": "Driver"
+    },
+    {
+        "id": "2",
+        "name": "Rahul",
+        "age": "28",
+        "city": "Mumbai",
+        "role": "Support"
+    },
+    {
+        "id": "3",
+        "name": "Sneha",
+        "age": "26",
+        "city": "Nashik",
+        "role": "HR"
+    },
+    {
+        "id": "4",
+        "name": "Pratik",
+        "age": "30",
+        "city": "Bangalore",
+        "role": "Developer"
+    },
+    {
+        "id": "5",
+        "name": "Neha",
+        "age": "27",
+        "city": "Pune",
+        "role": "Analyst"
+    }
+]
