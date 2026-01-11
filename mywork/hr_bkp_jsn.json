@@ -1,0 +1,23 @@
+[
+    {
+        "emp_id": "101",
+        "name": "Amol",
+        "department": "IT",
+        "login_time": "09:10",
+        "logout_time": "18:05"
+    },
+    {
+        "emp_id": "102",
+        "name": "Rahul",
+        "department": "HR",
+        "login_time": "09:30",
+        "logout_time": "17:50"
+    },
+    {
+        "emp_id": "103",
+        "name": "Neha",
+        "department": "Finance",
+        "login_time": "09:00",
+        "logout_time": "18:20"
+    }
+]
